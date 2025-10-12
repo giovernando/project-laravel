@@ -1,4 +1,4 @@
-# 🛒 Laravel E-Commerce App  
+## 🛒 Laravel E-Commerce App  
 
 A modern **E-Commerce Web Application** built with the **Laravel Framework**, designed to manage products, users, and transactions efficiently. This project demonstrates a scalable and maintainable architecture following Laravel’s MVC pattern, with authentication, product management, and order handling capabilities.  
 
@@ -114,6 +114,4 @@ You can extend it by adding:
 
 ---
 
-## 📄 License  
 
-This project is open-source and available under the [MIT License](LICENSE).  
