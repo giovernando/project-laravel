@@ -1,10 +1,10 @@
-## 🛒 Laravel E-Commerce App  
+## Laravel E-Commerce App  
 
 A modern **E-Commerce Web Application** built with the **Laravel Framework**, designed to manage products, users, and transactions efficiently. This project demonstrates a scalable and maintainable architecture following Laravel’s MVC pattern, with authentication, product management, and order handling capabilities.  
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - 🔐 **User Authentication** — Register, login, and manage accounts  
 - 🛍️ **Product Management** — Add, update, delete, and list products  
@@ -15,7 +15,7 @@ A modern **E-Commerce Web Application** built with the **Laravel Framework**, de
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 | Layer | Technology |
 |-------|-------------|
@@ -28,7 +28,7 @@ A modern **E-Commerce Web Application** built with the **Laravel Framework**, de
 
 ---
 
-## ⚙️ Installation  
+## Installation  
 
 Follow these steps to set up the project locally:  
 
@@ -103,7 +103,7 @@ project-laravel/
 
 ---
 
-## 🧑‍💻 Developer Notes  
+## Developer Notes  
 
 This project is a base for Laravel-based online stores.  
 You can extend it by adding:  
