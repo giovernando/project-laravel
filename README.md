@@ -2,8 +2,6 @@
 
 A modern **E-Commerce Web Application** built with the **Laravel Framework**, designed to manage products, users, and transactions efficiently. This project demonstrates a scalable and maintainable architecture following Laravel’s MVC pattern, with authentication, product management, and order handling capabilities.  
 
----
-
 ## Features  
 
 - 🔐 **User Authentication** — Register, login, and manage accounts  
@@ -12,8 +10,6 @@ A modern **E-Commerce Web Application** built with the **Laravel Framework**, de
 - 📦 **Inventory Control** — Track product stock and availability  
 - 💳 **Order Handling** — Manage customer orders and transactions  
 - 🖥️ **Admin Dashboard** — Manage users, products, and reports via an intuitive interface  
-
----
 
 ## Tech Stack  
 
@@ -26,7 +22,6 @@ A modern **E-Commerce Web Application** built with the **Laravel Framework**, de
 | Build Tool | Laravel Mix / Vite |
 | Testing | PHPUnit |
 
----
 
 ## Installation  
 
@@ -79,7 +74,6 @@ Follow these steps to set up the project locally:
 9. Open your browser and visit:  
    👉 `http://127.0.0.1:8000`
 
----
 
 ## 📁 Project Structure  
 
@@ -101,8 +95,6 @@ project-laravel/
 └── vrnancommerce.sql
 ```
 
----
-
 ## Developer Notes  
 
 This project is a base for Laravel-based online stores.  
@@ -112,6 +104,5 @@ You can extend it by adding:
 - Order tracking and customer invoices  
 - API support for mobile applications  
 
----
 
 
