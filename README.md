@@ -4,12 +4,12 @@ A modern **E-Commerce Web Application** built with the **Laravel Framework**, de
 
 ## Features  
 
-- 🔐 **User Authentication** — Register, login, and manage accounts  
-- 🛍️ **Product Management** — Add, update, delete, and list products  
-- 🗂️ **Category Management** — Organize products into structured categories  
-- 📦 **Inventory Control** — Track product stock and availability  
-- 💳 **Order Handling** — Manage customer orders and transactions  
-- 🖥️ **Admin Dashboard** — Manage users, products, and reports via an intuitive interface  
+- **User Authentication** — Register, login, and manage accounts  
+- **Product Management** — Add, update, delete, and list products  
+- **Category Management** — Organize products into structured categories  
+- **Inventory Control** — Track product stock and availability  
+- **Order Handling** — Manage customer orders and transactions  
+- **Admin Dashboard** — Manage users, products, and reports via an intuitive interface  
 
 ## Tech Stack  
 
@@ -70,30 +70,6 @@ Follow these steps to set up the project locally:
    ```bash
    php artisan serve
    ```
-
-9. Open your browser and visit:  
-   👉 `http://127.0.0.1:8000`
-
-
-## 📁 Project Structure  
-
-```
-project-laravel/
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-│   ├── views/
-│   └── js/
-├── routes/
-├── storage/
-├── tests/
-├── composer.json
-├── package.json
-└── vrnancommerce.sql
-```
 
 ## Developer Notes  
 
